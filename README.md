@@ -42,6 +42,5 @@ Tools Used
 - Excel
 - SEO Research Tools
 - Social Media Analytics Tools
-
-## Note
-Some confidential or sensitive company information has been removed or modified for portfolio purposes.
+- 
+Note: Some confidential or sensitive company information has been removed or modified for portfolio purposes.
