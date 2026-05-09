@@ -40,7 +40,7 @@ Tools Used
 - Canva
 - Google Docs
 - Excel
-- SEO Research Tools
-- Social Media Analytics Tools
+- SEO Research Tools - Semrush, Ubersuggest
+- Social Media Analytics Tools - Sprout Social, Soacial Blade, Meta Ads Manager
 
 Note: Some confidential or sensitive company information has been removed or modified for portfolio purposes.
